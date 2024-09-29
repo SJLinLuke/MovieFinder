@@ -25,7 +25,7 @@ class homeVC: UIViewController {
         configureViewController()
         configureTableView()
         configureCollectionView()
-//        getGenres()
+        getGenres()
     }
     
     private func getGenres() {
